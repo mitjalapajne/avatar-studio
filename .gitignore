@@ -1,0 +1,11 @@
+# secrets and runtime data
+server/.env
+data/
+
+# dependencies and build output
+web/node_modules/
+web/.next/
+server/.venv/
+__pycache__/
+*.pyc
+web/tsconfig.tsbuildinfo
